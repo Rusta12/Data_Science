@@ -6,4 +6,4 @@
     - :ballot_box_with_check: [Практическое задание](https://github.com/Rusta12/Data_Science/blob/master/Lesson%202/DZ2_DataScience.ipynb).
 - Урок 3. Вебинар. Вычисления с помощью Numpy. Работа с данными в Pandas.
 - Урок 4. [Визуализация данных в Matplotlib.](https://github.com/Rusta12/Data_Science/blob/master/Lesson%204/4-1.ipynb)
-    - :ballot_box_with_check: [Практическое задание](https://github.com/Rusta12/Data_Science/blob/master/Lesson%204/DZ4.ipynb)
+    - :ballot_box_with_check: [Практическое задание.](https://github.com/Rusta12/Data_Science/blob/master/Lesson%204/DZ4.ipynb)
