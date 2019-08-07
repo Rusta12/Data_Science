@@ -7,3 +7,9 @@
 - Урок 3. Вебинар. Вычисления с помощью Numpy. Работа с данными в Pandas.
 - Урок 4. [Визуализация данных в Matplotlib.](https://github.com/Rusta12/Data_Science/blob/master/Lesson%204/4-1.ipynb)
     - :ballot_box_with_check: [Практическое задание.](https://github.com/Rusta12/Data_Science/blob/master/Lesson%204/DZ4.ipynb)
+- Урок 5. [Визуализация данных в Matplotlib.](https://github.com/Rusta12/Data_Science/blob/master/Lesson%205/Web03_done.ipynb)
+- Урок 6. Видео уроки. Обучение с учителем в Scikit-learn
+    - :ballot_box_with_check: [Практическое задание.](https://github.com/Rusta12/Data_Science/blob/master/Lesson%206/6.ipynb)
+- Урок 7. [Вебинар. Обучение с учителем в Scikit-learn](https://github.com/Rusta12/Data_Science/blob/master/Lesson%207/Web04_done.ipynb)
+- Урок 8. Видеоурок. Обучение без учителя в Scikit-learn.
+    - :ballot_box_with_check: [Практическое задание.](https://github.com/Rusta12/Data_Science/blob/master/Lesson%208/8-2.ipynb)
