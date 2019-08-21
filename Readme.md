@@ -13,3 +13,6 @@
 - Урок 7. [Вебинар. Обучение с учителем в Scikit-learn](https://github.com/Rusta12/Data_Science/blob/master/Lesson%207/Web04_done.ipynb)
 - Урок 8. Видеоурок. Обучение без учителя в Scikit-learn.
     - :ballot_box_with_check: [Практическое задание.](https://github.com/Rusta12/Data_Science/blob/master/Lesson%208/8-2.ipynb)
+- Урок 9. [Вебинар. Обучение без учителя в Scikit-learn и введение в итоговый проект.](https://github.com/Rusta12/Data_Science/blob/Fin/Lesson%209/Web05_done.ipynb)
+- Урок 10. [Вебинар. Консультация по итоговому проекту.](https://github.com/Rusta12/Data_Science/blob/Fin/Lesson%2010/Web06_done.ipynb)
+    - :ballot_box_with_check: [Итоговый проект.](https://github.com/Rusta12/Data_Science/blob/Fin/Final_Project/08Homework4-Rus.ipynb)
